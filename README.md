@@ -2,15 +2,6 @@
 
 An AI-powered tool that compares a candidate's resume against a job description (JD), extracts relevant skills dynamically, and produces a weighted match score with a narrative explanation.
 
-📸 Screenshots
-1. Uploading / Pasting Data
-Input View
-
-
-2. Match Results & Explanations
-Results View
-
-
 ## Problem Solved
 Manually comparing resumes to job descriptions is time-consuming and prone to human bias. This tool automates the process by using an LLM to understand the semantic meaning of skills (e.g., knowing that "PyTorch" satisfies a requirement for "deep learning frameworks"), rather than just doing dumb keyword matching.
 
