@@ -20,8 +20,7 @@ Manually comparing resumes to job descriptions is time-consuming and prone to hu
 #### AI/LLM: Groq API (Llama 3.1 8B)
 #### PDF Parsing: PyPDF2
 #### Environment: python-dotenv
-## Project Structure
-resume-jd-matcher/├── .gitignore          # Ignores API keys and cache├── .env.example        # Template for required API keys├── index.html          # Frontend UI├── server.py           # Flask backend (API endpoints, LLM logic)├── requirements.txt    # Python dependencies├── README.md           # Project documentation└── screenshots/        # Project images    ├── input.png    └── results.png
+
 ## Setup & Running Locally
 #### Clone the repository:
 git clone <your-repo-link>
